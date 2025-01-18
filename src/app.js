@@ -29,6 +29,6 @@ function computerGuessGame() {
     console.log(`Компьютер 2 угадал число ${secretNumber} за ${attempts} попыток.`);
 }
 
-secretNumberGame();
+computerGuessGame();
 
 
